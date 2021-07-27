@@ -5,6 +5,8 @@ body {
     font-family: 'STIX Two Math', serif;
     font-weight: bold;
     display: grid;
+    background-image: linear-gradient(to right top, #22e9ea, #78ecff, #b7eeff, #e3f1ff, #fafafb);
+    color: white;
 }
 
 .a {
@@ -21,7 +23,7 @@ body {
 .a:hover {
     transform: translateX(30px);
     background-image: linear-gradient(to right top, #7d7cd0, #b56cc0, #de5b9e, #f15770, #ed663e);
-    color: white;
+    color: rgb(52, 209, 38);
 }
 
 .top {
